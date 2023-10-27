@@ -1,0 +1,4 @@
+// ======== Exercise 4.1 ========
+  // Goals:
+  // • Add explicit parameter type to the greet method
+  // • Add explicit return type to the greet method

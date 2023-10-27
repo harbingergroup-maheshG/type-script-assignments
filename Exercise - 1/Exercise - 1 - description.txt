@@ -1,0 +1,4 @@
+  // ======== Exercise 1 ========
+  // Instructions:
+  // • Add type annotations (as explicit as possible)
+  // • Fix errors (if applicable)

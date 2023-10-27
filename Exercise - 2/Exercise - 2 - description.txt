@@ -1,0 +1,4 @@
+// ======== Exercise 2.1 ========
+  // Instructions:
+  // • Create an interface `CartItem` and replace the param's type with it
+  // • Make variantId optional

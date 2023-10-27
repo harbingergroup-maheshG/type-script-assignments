@@ -1,0 +1,4 @@
+// ======== Exercise 3.1 ========
+  // Instructions:
+  // • Add explicit parameter types and return type
+  // • Fix any errors resulting from invalid types

@@ -1,0 +1,6 @@
+
+
+  // ======== Exercise 5 ========
+  // Goals:
+  // • Add explicit parameter types to constructor
+  // • Add typed parameters for storing values
