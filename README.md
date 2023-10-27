@@ -13,3 +13,7 @@
 ## Exercise-3
 ### solution-ex-3.ts file provide solution for Exercise-3
     To run typeScript :Open exercise-3 in terminal, then run with command -->>  ts-node solution-ex-3.ts
+
+## Exercise-4
+### solution-ex-4.ts file provide solution for Exercise-4
+    To run typeScript :Open exercise-4 in terminal, then run with command -->>  ts-node solution-ex-4.ts
